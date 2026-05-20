@@ -1,0 +1,8 @@
+.git
+.gitignore
+test_api.ps1
+README.md
+*.exe
+pdf_output.txt
+read_pdf.py
+Backend Assignment.pdf
